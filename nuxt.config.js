@@ -1,18 +1,26 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'zaldi-dev',
+    title: 'Fachrizaldi Wahyudi — Developer and Designer based in Jakarta.',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'description', name: 'description', content: 'Zaldi is a Frontend Developer and Designer based in Jakarta that currently pursuing his Bachelor of Engineering degree at Gunadarma University.' },
+      { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1'},
+      { name: 'keywords', content: 'Fachrizaldi Wahyudi, Frontend Developer, UI Designer, UX Designer, Designer, based in Jakarta, Gunadarma'},
+      { name: 'og:title', content: 'Fachrizaldi Wahyudi | Frontend Developer and Designer based in Jakarta'},
+      { name: 'og:description', content: 'Zaldi is a Frontend Developer and Designer based in Jakarta that currently pursuing his Bachelor of Engineering degree at Gunadarma University.'},
+      { name: 'og:url', content: 'https://zaldi-dev.netlify.app/'},
+      { name: 'og:site_name', content: 'Fachrizaldi Wahyudi — Developer and Designer based in Jakarta.'}
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/svg', href: '/logo-yellow,svg' },
+      { rel: 'stylesheet', type: ' text/css', href: '~/assets/css/style.css'},
+      { rel: 'stylesheet', type: ' text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css'},
     ]
   },
 
