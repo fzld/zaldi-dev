@@ -1,6 +1,9 @@
 {
   "name": "zaldi-dev",
   "version": "1.0.0",
+  "description": "Zaldi is a Frontend Developer and Designer based in Jakarta that currently pursuing his Bachelor of Engineering degree at Gunadarma University.",
+  "author": "Fachrizaldi Wahyudi",
+  "homepage": "https://zaldi-dev.netlify.app/",
   "private": true,
   "scripts": {
     "dev": "nuxt",
