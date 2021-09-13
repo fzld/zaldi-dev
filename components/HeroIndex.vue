@@ -14,7 +14,7 @@
                 </p>
                 <hr style="width: 10%;" class="bg-zld-white mb-6">
                 <div class="flex justify-center flex-wrap gap-6">
-                    <button class="btn btn-red text-zld-white text-sm sm:text-base hover:bg-red-500 hover:text-white">about me</button>
+                    <button class="btn btn-red text-zld-white text-sm sm:text-base hover:bg-red-500">about me</button>
                 </div>
                 <span class="text-xs font-light italic text-zld-white mt-2"><i class="fas fa-angle-double-down"></i> scroll to see my latest work</span>
             </div>

@@ -1,5 +1,5 @@
 <template>
-    <UnderConstruction />
+    <Gear />
 </template>
 
 <script>

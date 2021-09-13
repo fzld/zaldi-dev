@@ -9,10 +9,10 @@
                 </ul>
             </div>
             <div class="flex gap-4 text-white">
-                <i class="fab fa-github text-2xl"></i>
-                <i class="fab fa-behance text-2xl"></i>
-                <i class="fab fa-linkedin text-2xl"></i>
-                <i class="fas fa-envelope text-2xl"></i>
+                <a href="https://github.com/fzld" target="_blank" rel="noopener noreferrer"><i class="fab fa-github text-2xl"></i></a>
+                <a href="https://dribbble.com/fzlddd" target="_blank" rel="noopener noreferrer"><i class="fab fa-dribbble text-2xl"></i></a>
+                <a href="https://www.linkedin.com/in/fzlddd/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin text-2xl"></i></a>
+                <a href="mailto:fzlddd@gmail.com"><i class="fas fa-envelope text-2xl"></i></a>
             </div>
         </div>
     </footer>

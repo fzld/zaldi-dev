@@ -7,7 +7,7 @@
                     <i class="fas fa-exclamation-triangle text-zld-yellow"></i> whoops!
                 </h2>
                 <hr style="width: 5%;" class="bg-zld-white mb-6">
-                <p class="text-zld-white font-thin text-base sm:text-lg text-left mb-18">
+                <p class="text-zld-white font-thin text-base sm:text-lg text-left mb-32">
                     seems like this page is still under construction. let's get you back to the <nuxt-link class="text-bold text-indigo-400" to="/">home page</nuxt-link> !
                 </p>
             </div>

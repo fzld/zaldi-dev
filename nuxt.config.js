@@ -18,7 +18,7 @@ export default {
       { name: 'og:site_name', content: 'Fachrizaldi Wahyudi — Developer and Designer based in Jakarta.'}
     ],
     link: [
-      { rel: 'icon', type: 'image/svg', href: '/logo-yellow,svg' },
+      { rel: 'icon', type: 'image/svg', href: '/logo-yellow.svg' },
       { rel: 'stylesheet', type: ' text/css', href: '~/assets/css/style.css'},
       { rel: 'stylesheet', type: ' text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css'},
     ]
