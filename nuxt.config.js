@@ -15,7 +15,8 @@ export default {
       { name: 'og:title', content: 'Fachrizaldi Wahyudi | Frontend Developer and Designer based in Jakarta'},
       { name: 'og:description', content: 'Zaldi is a Frontend Developer and Designer based in Jakarta that currently pursuing his Bachelor of Engineering degree at Gunadarma University.'},
       { name: 'og:url', content: 'https://zaldi-dev.netlify.app/'},
-      { name: 'og:site_name', content: 'Fachrizaldi Wahyudi — Developer and Designer based in Jakarta.'}
+      { name: 'og:site_name', content: 'Fachrizaldi Wahyudi — Developer and Designer based in Jakarta.'},
+      { name: 'og:image', content:'/og.png'}
     ],
     link: [
       { rel: 'icon', type: 'image/svg', href: '/logo-yellow.svg' },
